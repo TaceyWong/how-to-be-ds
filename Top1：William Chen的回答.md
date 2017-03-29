@@ -118,5 +118,65 @@
 
 我**不推荐**做任何有奖金的竞赛。通常情况下，他们的数据集太大、难以理解、杂乱，非常不利于学习。([Kaggle.com](https://www.kaggle.com/))
 
-通过学习scikit-learn开始，先随便玩玩，
+通过学习scikit-learn开始，先随便玩玩，通读官方教程和[Data Science London + Scikit-learn](https://www.kaggle.com/c/data-science-london-scikit-learn/rules?returnUrl=%2Fc%2Fdata-science-london-scikit-learn%2Fsubmit)论坛，练习一下上面的示例，比如可以从一个简单的二分类任务开始。 查看一下[泰坦尼克: 院子一场灾难的机器学习](https://www.kaggle.com/c/titanic-gettingStarted)这个教程，这是一个稍微复杂点的**二分类任务**（涉及到了类别变量、缺失值等等）。
 
+然后通过 [森林植被类型预测](https://www.kaggle.com/c/forest-cover-type-prediction)尝试一些**多分类任务**。之后通过[字形成共享需求](https://www.kaggle.com/c/bike-sharing-demand)来尝试完成一个**回归任务**，里面涉及到了组合时间戳。学习 [电影评论情绪分析](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)来尝试一些**自然语言处理**方面的实验。最后，尝试任何你感兴趣的知识竞赛！
+
+**学习一些数据科学课程**
+
++ **产品指标**将会教给你公司在跟踪关注什么，他们发现什么指标是重要的，以及公司是怎样度量他们的成功：[Pinterest内部增脏仪表盘上的27个指标](http://jwegan.com/growth-hacking/27-metrics-pinterests-internal-growth-dashboard/)
++ **最优化**将会帮助你更好地理解统计学和机器学习：[凸优化 - Boyd and Vandenberghe](http://stanford.edu/~boyd/cvxbook/)
++ **A/B测试**只是一个名字翻版，不过是制药公司已经做了几十年的东西。参考[我是如何学习A/B测试的?](https://www.quora.com/How-do-I-learn-about-A-B-testing)
++ **可视化**：-我推荐使用R中的ggplot2来做简单漂亮的图表。可以浏览 [DataIsBeautiful • /r/dataisbeautiful](http://www.reddit.com/r/dataisbeautiful)和[FlowingData](http://flowingdata.com/)来寻找一些灵感
++ **用户行为**：这是一系列有趣且有用的的博客文章：[这解释了一切用户行为](http://www.productpsychology.com/category/user-behavior/)
++ **大数据技术**-一些专门开发用来处理大数据的工具和框架：[我是如何学习大数据技术的?](https://www.quora.com/How-do-I-learn-big-data-technologies-1)
++ **机器学习**：[**如何学习机器学习?**](https://www.quora.com/How-do-I-learn-machine-learning-1)这是一个非常有想象空间和潜力的区域。Andrew Ng在Coursera上的机器学习课程是最受欢迎的慕课之一，非常适合新手学习！[**Andrew Ng的机器学习课程**](https://www.coursera.org/course/ml)
++ **自然语言处理**-就是将文本数据转换成数字数据，同时仍保留“意义”。学习自然语言处理将会让你可以分析一种有新而趣的形式的数据。. [如何学习自然语言处理(NLP)?](https://www.quora.com/How-do-I-learn-Natural-Language-Processing-NLP)
++ **时间序列分析**-[如何学习时间序列方面的东西?](https://www.quora.com/How-do-I-learn-about-time-series-analysis-1)
++ **构建数据文化**-[http://www.oreilly.com/data/free...](http://www.oreilly.com/data/free/files/data-driven.pdf)
+
+**Do a Capstone Product / Side Project**
+
+使用你新学到的数据科学和软件工程技能来构建一个让别人惊叹是的项目！可以是一个网站、查看数据集的新方法、酷炫的可视化……
+
++ [数据科学方面有哪些值得推荐的“玩具问题“?](https://www.quora.com/What-are-some-good-toy-problems-in-data-science)
++ [如何构建一个推荐引擎?](https://www.quora.com/How-can-I-start-building-a-recommendation-engine)
++ [有哪些适合一周快速完成Python 项目?](https://www.quora.com/What-are-some-ideas-for-a-quick-weekend-Python-project)
++ [何种指标适合度量一个Twitter童虎的影响力?](https://www.quora.com/What-is-a-good-measure-of-the-influence-of-a-Twitter-user)
++ [从哪儿可以找到公开的大型数据集?](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
++ [对于一个 prioritized inbox有哪些比较好的算法?](https://www.quora.com/What-are-some-good-algorithms-for-a-prioritized-inbox)
++ [哪些数据科学项目比较好?](https://www.quora.com/What-are-some-good-data-science-projects)
+
+创建一个公开的github仓库，开一个博客，发表一些你的工作内容、业余项目，Kaggle解决方案、日常思考！你可以让你赢得关注，建立简历名片，和其他从事相同工作的人取得接触。
+
+**得到一个数据科学方面的实习或工作**
+
++ [如何准备数据科学家面试?](https://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview)
++ [如何准备数据科学家面试中的统计学问题](https://www.quora.com/How-should-I-prepare-for-statistics-questions-for-a-data-science-interview)
++ [数据科学家面试中会遇到哪些 A/B测试问题？对于这些问题应该如何做准备?](https://www.quora.com/What-kind-of-A-B-testing-questions-should-I-expect-in-a-data-scientist-interview-and-how-should-I-prepare-for-such-questions)
++ [那些公司招数据科学方面的实习生?](https://www.quora.com/What-companies-have-data-science-internships)
++ [申请数据科学还是软件工程方面的实习，有哪些比较好的建议](https://www.quora.com/What-are-some-tips-to-choose-whether-I-want-to-apply-for-a-Data-Science-or-Software-Engineering-internship)
++ [申请数据科学暑假实习的最佳时间是什么时候?](https://www.quora.com/When-is-the-best-time-to-apply-for-data-science-summer-internships)
+
+参考 [The Official Quora Data Science FAQ](http://the%20official%20quora%20data%20science%20faq/)了解更多关于实习、工作和数据科学面试流程方面的讨论!数据科学FAQ中也提供了一写本问题下更细分的一些内容，比如[没有博士学位，如何成为数据科学家?](https://www.quora.com/How-do-I-become-a-data-scientist-without-a-PhD) 以及与其配套的[作为一名博士在读生，如何成为数据科学家?](https://www.quora.com/How-do-I-become-a-data-scientist-as-a-PhD-student-1)
+
+**像数据科学家一样思考**
+
+除了我上面列出的用来获得数据科学家技能的具象步骤，我在下面还列出了**七大挑战**，希望能帮助你学会**像数据科学家一样思考**，并树立成为数据科学家的正确态度。
+
+
+
+**（1）通过数据满足好奇心**
+
+**作为一名数据科学，你编写你自己的问题和答案**。数据科学家天生对他们正观察的数据充满好奇，用创造性的方式来发现和解决任何需要解决的问题。
+
+**数据科学很多情况下不是分析本身，而是发现一个有趣的问题并设法回答它。**
+
+下面是两个非常好的例子：
+
++ [希拉里：美国历史中的最毒婴儿名字](http://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/)
++ [火灾反应数据一览](http://blog.stevewhardin.com/2014/03/17/a-look-at-fire-response-data/)
+
+**挑战**：想一个你感兴趣的问题或者主题，并用数据给出答案！
+
+**（2）带着怀疑的眼光读新闻**
